@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Montserrat+Alternates:wght@400&display=swap');
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+.font-montserrat {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 400;
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+

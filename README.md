@@ -14,12 +14,12 @@ A static UberEats clone created using React with TypeScript and styled with Tail
 
 1. Clone the repository:
 
-   git clone https://github.com/rabika-p/uber-eats-clone.git
+   git clone https://github.com/rabika-p/uber-eats-clone.git  
    cd uber-eats-clone
 
-2. Install the dependencies:
+2. Install the dependencies:  
     `npm install`
 
 ## Usage
-To start the development server, run:
+To start the development server, run:  
     `npm run dev`
